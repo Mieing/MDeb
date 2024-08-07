@@ -10,7 +10,7 @@ mdeb
 把你需要解压的deb文件放在 `/var/mobile/Documents/Mdeb/deb`
 
 
-运行
+### 运行
 ```
 mdeb -tq
 ```

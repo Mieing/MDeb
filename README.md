@@ -1,7 +1,7 @@
 # MDeb
 
 ### 使用
-安装mdeb，在终端运行
+安装[mdeb](https://github.com/Mieing/MDeb/releases/tag/MDeb)，在终端运行
 ```
 mdeb
 ```

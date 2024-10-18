@@ -1,0 +1,10 @@
+Package: mdeb
+Section: Terminal_Support
+Priority: optional
+Depends: bash
+Maintainer: mie
+Description: Quickly extract dylib files in batches
+SileoDepiction: https://Mieing.github.io/repo/Desc/mdeb.json
+Architecture: iphoneos-arm
+Version: 5.2.1-6+debug
+Installed-Size: 212
